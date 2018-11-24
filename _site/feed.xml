@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Learn Deep Learning Daily</title>
+    <description>Quickly learn Deep Learning</description>
+    <link>http://localhost:4000</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>Using Github!</title>
+        <description>
+          Learn to use for your projects. - 
+          This post is all about Using Github for your project. Git as we all know is a version controlling system. It keeps a track of your changes and saves it in cloud in github.com or your enterprise domain if using any company/corporate account. This post is to drive you through...
+        </description>
+        <pubDate>Sun, 25 Nov 2018 00:00:00 +0530</pubDate>
+        <link>http://localhost:4000/2018-11-25-using-github/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018-11-25-using-github/</guid>
+      </item>
+    
+  </channel>
+</rss>
