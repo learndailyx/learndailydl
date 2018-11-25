@@ -7,14 +7,25 @@
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>Before coding DL!</title>
+        <description>
+          Prerequisites for Deep Learning. - 
+          This post is to know things before starting to learn Deep Learning. We will start from very basic things and some important links to learn the prerequisites. Before starting this course I recommend the following things to be completed. Otherwise, you might feel lost in the middle of the course....
+        </description>
+        <pubDate>Sun, 25 Nov 2018 00:00:00 +0530</pubDate>
+        <link>http://localhost:4000/2018-11-25-prerequisites/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018-11-25-prerequisites/</guid>
+      </item>
+    
+      <item>
         <title>Using Github!</title>
         <description>
           Learn to use for your projects. - 
           This post is all about Using Github for your project. Git as we all know is a version controlling system. It keeps a track of your changes and saves it in cloud in github.com or your enterprise domain if using any company/corporate account. This post is to drive you through...
         </description>
-        <pubDate>Sun, 25 Nov 2018 00:00:00 +0530</pubDate>
-        <link>http://localhost:4000/2018-11-25-using-github/</link>
-        <guid isPermaLink="true">http://localhost:4000/2018-11-25-using-github/</guid>
+        <pubDate>Sat, 24 Nov 2018 00:00:00 +0530</pubDate>
+        <link>http://localhost:4000/2018-11-24-using-github/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018-11-24-using-github/</guid>
       </item>
     
   </channel>
